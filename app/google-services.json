@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "202232245758",
+    "firebase_url": "https://water-bender.firebaseio.com",
+    "project_id": "water-bender",
+    "storage_bucket": "water-bender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202232245758:android:39bebb2df354f73ae9e4af",
+        "android_client_info": {
+          "package_name": "gudelabok.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202232245758-e6a74cus7kdvaihss2q643b86au3oi9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNPHVXLpBTiU8Vk7aNqP1JJZFDFdsZMK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202232245758-e6a74cus7kdvaihss2q643b86au3oi9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
